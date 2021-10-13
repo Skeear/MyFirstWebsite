@@ -18,11 +18,9 @@ body
 
 .topnav
 {
-    margin-left: -0.4%;
+    margin-left: -0.45%;
     background-color: #333333;
     width: 100%;
-    border-left: 5%;
-    border-right: 5%;
     overflow: hidden;
     position: fixed;
     top: 0;
