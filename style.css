@@ -34,7 +34,7 @@ body
     color: #ff0099;
     text-decoration: underline;
     text-align: center;
-    padding: 0.5em 0.6em
+    padding: 0.5em 0.8em
 }
 
 .logo
@@ -59,10 +59,7 @@ p
     padding-left: 10%;
     padding-right: 10%;
 }
-.topnav a
-{
-    padding: 0.5em 0.8em;
-}
+
 #logo
 {
     padding-left: 10%;
